@@ -20,14 +20,14 @@ git clone https://github.com/tu_usuario/report-covid-19-colombia.git
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Uso
 
 Ejecuta el archivo mainUI.py:
 
 ```bash
 python mainUI.py
-
+```
 ## Contribución
 
 Se aceptan contribuciones al proyecto. Si deseas contribuir, por favor sigue las siguientes pautas:
